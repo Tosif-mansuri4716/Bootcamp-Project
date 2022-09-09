@@ -1,0 +1,27 @@
+Question 1:-
+
+//class
+    Sport_Club
+    City
+    SportFeatures
+    Membership
+    Register_club
+    Services
+    Membership_plan
+//child class extend parent class 
+    
+//method
+    indoorGame
+    outdoorGame
+  life time membership
+   weekly---------------
+    monthly----------------
+    tournament
+//singal
+    playeer id,name,gender,
+//static
+    playersname,dob,gender
+dynamic
+    mobilenumber,age,city,email
+multivalue
+    mobilenumber,email,address,playingroal
